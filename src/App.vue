@@ -89,7 +89,7 @@ const skills = ref([
 
                         </div>
 
-                        <h4 class="font-medium text-gray-700 text-lg mb-4">High experience</h4>
+                        <h4 class="font-medium text-gray-700 text-lg mb-4">Ample experience</h4>
 
                         <p class="font-normal text-gray-500 text-md">With nearly a decade's worth of professional software development & data analysis experience, I provide highly efficient, well-tested software, tools, and reports for clients.</p>
                     </div>
@@ -106,7 +106,7 @@ const skills = ref([
 
                         <h4 class="font-medium text-gray-700 text-lg mb-4">Success projects</h4>
 
-                        <p class="font-normal text-gray-500 text-md">Some of largest successes I have in my career are building proprietary solutions - the largest being an in-house e-Signature platform and a custom collections module, both of which service tens of thousands of customers every year.</p>
+                        <p class="font-normal text-gray-500 text-md">Some of the largest successes I have had in my career are building proprietary solutions - the largest being an in-house e-Signature platform and a custom collections module, both of which service tens of thousands of customers every year.</p>
                     </div>
                 </div>
 
@@ -122,7 +122,7 @@ const skills = ref([
                     <div class="mb-10 lg:mb-0">
                         <h1 class="font-medium text-gray-700 text-3xl md:text-4xl mb-5">Portfolio</h1>
 
-                        <p class="font-normal text-gray-500 text-xs md:text-base">I have brought here my biggest and favorite works <br> as a professional.</p>
+                        <p class="font-normal text-gray-500 text-xs md:text-base">Here are my largest, most well-liked works <br> as a professional.</p>
                     </div>
 
                     <div class="space-y-24">
@@ -196,9 +196,9 @@ const skills = ref([
 
             <div class="container max-w-screen-xl mx-auto px-4 py-6 bg-gray-50 rounded-md">
 
-                <h1 class="font-medium text-gray-700 text-3xl md:text-4xl mb-5">Experience</h1>
+                <h1 class="font-medium text-gray-700 text-3xl md:text-4xl mb-10">Experience</h1>
 
-                <p class="font-normal text-gray-500 text-xs md:text-base mb-20">Below is a summary of the places I have worked</p>
+                <!-- <p class="font-normal text-gray-500 text-xs md:text-base mb-20">Below is a summary of the places I have worked</p> -->
 
                 <div class="flex flex-col lg:flex-row justify-between">
                     <div class="space-y-8 md:space-y-16 mb-16 md:mb-0">

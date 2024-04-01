@@ -201,7 +201,7 @@ const skills = ref([
                 <!-- <p class="font-normal text-gray-500 text-xs md:text-base mb-20">Below is a summary of the places I have worked</p> -->
 
                 <div class="flex flex-col lg:flex-row justify-between">
-                    <div class="space-y-8 md:space-y-16 mb-16 md:mb-0">
+                    <div class="space-y-8 md:space-y-16 mb-16 ">
                         <h6 class="font-medium text-gray-400 text-base uppercase underline">Company</h6>
 
                         <p class="font-semibold text-gray-600 text-base">Cash Express, LLC <span class="font-normal text-gray-300">/ Tennessee</span></p>
@@ -211,7 +211,7 @@ const skills = ref([
                         <p class="font-semibold text-gray-600 text-base">Averitt Express <span class="font-normal text-gray-300">/ Tennessee</span></p>
                     </div>
 
-                    <div class="space-y-8 md:space-y-16 mb-16 md:mb-0 md:mt-12">
+                    <div class="space-y-8 md:space-y-16 mb-16 ">
                         <h6 class="font-medium text-gray-400 text-base uppercase underline">Position</h6>
 
                         <p class="font-normal text-gray-400 text-base">Team Lead Software Engineer</p>
@@ -221,7 +221,7 @@ const skills = ref([
                         <p class="font-normal text-gray-400 text-base">Programmer / Analyst</p>
                     </div>
 
-                    <div class="space-y-8 md:space-y-16 md:mt-12">
+                    <div class="space-y-8 md:space-y-16">
                         <h6 class="font-medium text-gray-400 text-base uppercase underline">Year</h6>
 
                         <p class="font-normal text-gray-400 text-base">2020 - current</p>
